@@ -1,5 +1,5 @@
 {
-    "next_id": 131,
+    "next_id": 135,
     "bookmarks": [
         {
             "id": 1,
@@ -1381,6 +1381,55 @@
             ],
             "id": 128,
             "date_added": "2022-05-05T00:34:12.674840"
+        },
+        {
+            "url": "https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/",
+            "title": "Multiple assignments in Python ",
+            "description": "",
+            "tags": [
+                "Python",
+                "programming"
+            ],
+            "id": 131,
+            "date_added": "2022-05-08T16:32:17.490182"
+        },
+        {
+            "url": "https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows",
+            "title": "Microsoft PowerToys",
+            "description": "Utilities to make your windows install more powerful",
+            "tags": [
+                "Windows",
+                "util",
+                "software",
+                "utilities"
+            ],
+            "id": 132,
+            "date_added": "2022-05-09T14:21:45.836374"
+        },
+        {
+            "url": "https://svelte.dev/",
+            "title": "Cool web framework",
+            "description": "",
+            "tags": [
+                "web",
+                "programming",
+                "html",
+                "js",
+                "ui",
+                "framework"
+            ],
+            "id": 133,
+            "date_added": "2022-05-13T15:02:41.913865"
+        },
+        {
+            "url": "https://earthly.dev/blog/line-staff/",
+            "title": "Difference between staff and line employee",
+            "description": "",
+            "tags": [
+                "career"
+            ],
+            "id": 134,
+            "date_added": "2022-05-13T20:50:42.329282"
         }
     ]
 }
