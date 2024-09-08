@@ -1,5 +1,5 @@
 {
-    "next_id": 135,
+    "next_id": 156,
     "bookmarks": [
         {
             "id": 1,
@@ -1430,6 +1430,264 @@
             ],
             "id": 134,
             "date_added": "2022-05-13T20:50:42.329282"
+        },
+        {
+            "url": "https://newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you",
+            "title": "Effects and Causes of Loneliness",
+            "description": "",
+            "tags": [
+                "loneliness",
+                "lonely"
+            ],
+            "id": 135,
+            "date_added": "2022-05-21T08:15:31.395100"
+        },
+        {
+            "url": "https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/",
+            "title": "A collection of wise words by Donald Knuth on Life and Problem-solving",
+            "description": "",
+            "tags": [
+                "life",
+                "programming",
+                "happiness",
+                "self-help"
+            ],
+            "id": 136,
+            "date_added": "2022-05-25T08:44:19.332576"
+        },
+        {
+            "url": "https://flix.dev/",
+            "title": "Flix, a functional programming language for the JVM",
+            "description": "Flix introduces logic programming and purity detection to the JVM",
+            "tags": [
+                "programming",
+                "functional programming",
+                "flix"
+            ],
+            "id": 137,
+            "date_added": "2022-05-25T10:17:30.338417"
+        },
+        {
+            "url": "http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/overview.html",
+            "title": "Andy Ruina, the guy who corrected bicycle physics",
+            "description": "",
+            "tags": [
+                ""
+            ],
+            "id": 138,
+            "date_added": "2022-05-26T15:48:27.013157"
+        },
+        {
+            "url": "https://github.com/satwikkansal/wtfpython",
+            "title": "WTFPython - Collection of Python examples that look weird",
+            "description": "Explore less well known features of Python through examples",
+            "tags": [
+                "python",
+                "programming"
+            ],
+            "id": 139,
+            "date_added": "2022-05-31T15:05:27.076129"
+        },
+        {
+            "url": "https://1x.engineer/",
+            "title": "The 1x Engineer!",
+            "description": "",
+            "tags": [
+                "self help",
+                "life",
+                "work",
+                "programming"
+            ],
+            "id": 140,
+            "date_added": "2022-05-31T15:08:28.067912"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=OnvQggy3Ezw",
+            "title": "One Breath Around the World",
+            "description": "12-minute art film by a free-diver travelling around the world diving a bunch of beautiful sites in one clip",
+            "tags": [
+                "dive",
+                "diving",
+                "free-diving",
+                "video"
+            ],
+            "id": 141,
+            "date_added": "2022-06-05T06:01:41.293320"
+        },
+        {
+            "url": "https://bert.org/2022/06/02/payphone/",
+            "title": "Installing a Pay Phone in Your House",
+            "description": "This guy installed a payphone in his livingroom",
+            "tags": [
+                "payphone",
+                "hacking",
+                "diy",
+                "electronics",
+                "phone",
+                ""
+            ],
+            "id": 142,
+            "date_added": "2022-06-05T06:32:35.687702"
+        },
+        {
+            "url": "https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search",
+            "title": "Bible Semantic Search",
+            "description": "Search the bible for verses semantically related to your query",
+            "tags": [
+                "bible",
+                "search"
+            ],
+            "id": 143,
+            "date_added": "2022-06-14T11:49:03.275178"
+        },
+        {
+            "url": "https://tedgioia.substack.com/p/where-did-the-long-tail-go",
+            "title": "The Long Tail isn\u2019t coming",
+            "description": "Explaining why a long-tail focus is bad for business but good for culture ",
+            "tags": [
+                "Culture",
+                "economy",
+                "philosophy",
+                "economics",
+                "long tail"
+            ],
+            "id": 144,
+            "date_added": "2022-06-26T20:05:13.573192"
+        },
+        {
+            "url": "https://www.instructables.com/Quick-and-Dirty-Dynamic-DNS-Using-GoDaddy/",
+            "title": "Dynamic DNS using GoDaddy",
+            "description": "",
+            "tags": [
+                "DNS",
+                "GoDaddy",
+                "server",
+                "domain",
+                "dynamic DNS"
+            ],
+            "id": 145,
+            "date_added": "2022-07-27T09:17:09.401353"
+        },
+        {
+            "url": "https://macoy.me/blog/programming/Sockets",
+            "title": "Interesting facts about sockets and TCP",
+            "description": "",
+            "tags": [
+                "networking",
+                "TCP",
+                "sockets"
+            ],
+            "id": 146,
+            "date_added": "2022-07-27T09:18:07.039494"
+        },
+        {
+            "url": "https://drummingreview.com/drum-exercises/",
+            "title": "Awesome drum exercises",
+            "description": "List of drum exercises",
+            "tags": [
+                "drums",
+                "practice"
+            ],
+            "id": 147,
+            "date_added": "2023-10-11T15:04:38.801004"
+        },
+        {
+            "url": "https://boringtechnology.club/",
+            "title": "Choose boring technology ",
+            "description": "",
+            "tags": [
+                "Tech",
+                "learning",
+                "wisdom"
+            ],
+            "id": 148,
+            "date_added": "2023-10-13T22:52:57.138744"
+        },
+        {
+            "url": "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types",
+            "title": "Patterns with Rust typer",
+            "description": "Great overview of design patterns using rust types ",
+            "tags": [
+                "Rust",
+                "programming"
+            ],
+            "id": 149,
+            "date_added": "2023-10-14T08:10:07.281054"
+        },
+        {
+            "url": "https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/",
+            "title": "What worked in math circles",
+            "description": "Thoughts on what concepts worked and didn\u2019t for teaching math to 8 year olds",
+            "tags": [
+                "Math",
+                "education"
+            ],
+            "id": 150,
+            "date_added": "2023-10-14T08:11:14.040722"
+        },
+        {
+            "url": "https://zhangluyao.com/blog/make-something-nobody-wants/",
+            "title": "It\u2019s ok to make something nobody wants",
+            "description": "",
+            "tags": [
+                "Entrepreneur",
+                "product",
+                "design",
+                "startup",
+                "programming"
+            ],
+            "id": 151,
+            "date_added": "2023-10-15T08:02:20.166490"
+        },
+        {
+            "url": "https://app.codecrafters.io/courses/bittorrent/overview",
+            "title": "Build your own bittorrent ",
+            "description": "",
+            "tags": [
+                ""
+            ],
+            "id": 152,
+            "date_added": "2023-10-19T13:21:06.303345"
+        },
+        {
+            "url": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity",
+            "title": "Dignity, an important aspect of pedestrian walkpaths",
+            "description": "Illustrates the key concepts relevant for sidewalk design by showing examples of good and bad sidewalks, and talking about the emotional effect of them",
+            "tags": [
+                "urban",
+                "urban planning",
+                "sidewalks",
+                "architecture"
+            ],
+            "id": 153,
+            "date_added": "2024-08-02T11:23:28.034356"
+        },
+        {
+            "url": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/",
+            "title": "Jon Seager's computer setup 2024",
+            "description": "",
+            "tags": [
+                "pc",
+                "linux",
+                "workstation",
+                "software",
+                "utility"
+            ],
+            "id": 154,
+            "date_added": "2024-08-02T11:26:35.292248"
+        },
+        {
+            "url": "https://www.bytedrum.com/posts/art-of-finishing/",
+            "title": "The art of finishing",
+            "description": "A few words about the value of finishing projects, and the cost associated with not doing so",
+            "tags": [
+                "projects",
+                "time management",
+                "enthusiasm",
+                "hobby"
+            ],
+            "id": 155,
+            "date_added": "2024-09-03T12:32:58.810921"
         }
     ]
 }
