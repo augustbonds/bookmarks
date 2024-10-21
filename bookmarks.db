@@ -1,5 +1,5 @@
 {
-    "next_id": 156,
+    "next_id": 160,
     "bookmarks": [
         {
             "id": 1,
@@ -1688,6 +1688,55 @@
             ],
             "id": 155,
             "date_added": "2024-09-03T12:32:58.810921"
+        },
+        {
+            "url": "https://praachi.work/blog/optimize-career-happiness",
+            "title": "How to optimize for career happiness",
+            "description": "A few pointers on how to set yourself up for a happy career",
+            "tags": [
+                "personal development",
+                "happiness"
+            ],
+            "id": 156,
+            "date_added": "2024-09-15T21:46:56.836249"
+        },
+        {
+            "url": "https://www.digitalocean.com/community/tutorials/how-to-upgrade-nginx-in-place-without-dropping-client-connections",
+            "title": "Upgrade nginx without dropping client connections",
+            "description": "How to gracefully update nginx",
+            "tags": [
+                "devops",
+                "server",
+                "nginx",
+                "http"
+            ],
+            "id": 157,
+            "date_added": "2024-09-20T07:19:18.403784"
+        },
+        {
+            "url": "https://dev.to/fractalis/creating-a-dsl-in-python-dj6",
+            "title": "How to create a DSL in Python",
+            "description": "How to create a domain specific language in Python",
+            "tags": [
+                "DSL",
+                "programming",
+                "python"
+            ],
+            "id": 158,
+            "date_added": "2024-10-03T12:07:48.328990"
+        },
+        {
+            "url": "https://www.dreamsongs.com/RiseOfWorseIsBetter.html",
+            "title": "Worse is Better",
+            "description": "An approach that is \"less than ideal\" seems to be a better choice for software engineering. The \"right thing\" is not the right thing",
+            "tags": [
+                "programming",
+                "principle",
+                "software",
+                "design"
+            ],
+            "id": 159,
+            "date_added": "2024-10-07T18:25:44.162653"
         }
     ]
 }
