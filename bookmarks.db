@@ -1,5 +1,5 @@
 {
-    "next_id": 160,
+    "next_id": 173,
     "bookmarks": [
         {
             "id": 1,
@@ -1737,6 +1737,180 @@
             ],
             "id": 159,
             "date_added": "2024-10-07T18:25:44.162653"
+        },
+        {
+            "url": "https://zarar.dev/good-software-development-habits/",
+            "title": "Good Software Development Habits",
+            "description": "A list of ten good software development habits",
+            "tags": [
+                "software development",
+                "code",
+                "habits"
+            ],
+            "id": 160,
+            "date_added": "2024-11-18T10:02:00.582425"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=MjHpMCIvwsY&ab_channel=PyCon2019",
+            "title": "Python Decorators - How They Work",
+            "description": "A great 30 minute talk on how python decorators work",
+            "tags": [
+                "python",
+                "programming",
+                "design",
+                "abstraction",
+                "decorators",
+                "metaprogramming"
+            ],
+            "id": 161,
+            "date_added": "2024-11-18T18:44:56.491620"
+        },
+        {
+            "url": "https://bitsandtheorems.com/the-simplicity-of-prolog/",
+            "title": "The Simplicity of Prolog",
+            "description": "An article that compares describing an access rights system in Prolog vs Kotling, and how changing requirements are simpler to handle in case of Prolog",
+            "tags": [
+                "programming",
+                "kotlin",
+                "prolog",
+                "logic programming",
+                "constraints programming",
+                "algorithms"
+            ],
+            "id": 162,
+            "date_added": "2025-02-26T19:58:16.951769"
+        },
+        {
+            "url": "https://hypercritical.co/2025/02/25/hyperspace",
+            "title": "Hyperspace, the space saving app for APFS users",
+            "description": "The app Hyperspaces reclaims space on APFS machines (default file system on newer macs) without losing data by utilizing the file system's file deduplication mechanism",
+            "tags": [
+                "mac",
+                "apfs",
+                "storage",
+                "app",
+                "macos"
+            ],
+            "id": 163,
+            "date_added": "2025-02-26T20:01:38.425996"
+        },
+        {
+            "url": "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md",
+            "title": "A dialogue with Uncle Bob about a few criticisms of Clean Code ",
+            "description": "",
+            "tags": [
+                "programming",
+                "clean code",
+                "decomposition",
+                "code style",
+                "readability",
+                "maintainability"
+            ],
+            "id": 164,
+            "date_added": "2025-02-26T20:07:30.060014"
+        },
+        {
+            "url": "https://endler.dev/2025/best-programmers/",
+            "title": "The Best Programmers I Know",
+            "description": "List of qualities that great software engineer have in common",
+            "tags": [
+                "programming",
+                "engineering",
+                "software development",
+                "learning"
+            ],
+            "id": 165,
+            "date_added": "2025-04-11T17:53:33.548738"
+        },
+        {
+            "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
+            "title": "Writing Code Was Never the Bottleneck",
+            "description": "The advent of LLMs for code generation has brought the cost of writing code down to near zero. The requirements on maintenance, understanding and communication are still high, and are the real bottlenecks in software engineering",
+            "tags": [
+                "software development",
+                "LLM",
+                "AI"
+            ],
+            "id": 166,
+            "date_added": "2025-07-03T12:08:17.168750+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
+            "title": "The Rise of Whatever",
+            "description": "LLM output isn't reliable. Reliance on it is a further indication that \"content\", i.e. what is between the ads, is irrelevant",
+            "tags": [
+                "LLM",
+                "quality",
+                "software development"
+            ],
+            "id": 167,
+            "date_added": "2025-07-04T11:05:08.393133+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status",
+            "title": "The Moat of Low Status",
+            "description": "Learn to love \"the Moat of  Low Status\", which is an expression to describe the imagined awkwardness that you will experience when you try something new, that is stopping you from actually trying",
+            "tags": [
+                "self development",
+                "self-help",
+                "self help",
+                "status",
+                "learning"
+            ],
+            "id": 168,
+            "date_added": "2025-07-05T20:05:28.657356+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://www.readthistwice.com/lists/best-programming-books",
+            "title": "100 Most Useful Programming Books",
+            "description": "A list of the 100 most useful programming books",
+            "tags": [
+                "Programming"
+            ],
+            "id": 169,
+            "date_added": "2025-07-18T21:37:26.845843+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://worksinprogress.co/issue/magical-systems-thinking/",
+            "title": "The limitations of systems thinking, and it's solution",
+            "description": "Systems thinking provides a false confidence that a new complex system can be built from scratch. Simple systems that work that evolve to become complicated systems are the only ones to succeed",
+            "tags": [
+                "systems thinking",
+                "government"
+            ],
+            "id": 170,
+            "date_added": "2025-09-13T20:10:21.678522+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://opensource.zalando.com/tech-radar/",
+            "title": "Zalando's Tech Radar",
+            "description": "Zalando's Tech Radar maps out Zalando's view of different technologies, rating them from \"adopt\" = use freely in new projects to \"on hold\" = don't use for new projects",
+            "tags": [
+                "software",
+                "engineering",
+                "software development",
+                "tools"
+            ],
+            "id": 171,
+            "date_added": "2025-09-24T18:43:48.695384+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/",
+            "title": "Save your evenings as a working programmer using this habit",
+            "description": "At the end of your workday, instead of pushing those extra \"just 20 minutes more\", write down what steps you need to take first thing tomorrow and go home",
+            "tags": [
+                "software development",
+                "work-life-balance"
+            ],
+            "id": 172,
+            "date_added": "2025-10-04T06:36:17.278544+00:00",
+            "archived": false
         }
     ]
 }
