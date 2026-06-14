@@ -1,5 +1,5 @@
 {
-    "next_id": 173,
+    "next_id": 175,
     "bookmarks": [
         {
             "id": 1,
@@ -1910,6 +1910,34 @@
             ],
             "id": 172,
             "date_added": "2025-10-04T06:36:17.278544+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://www.socialcooling.com/",
+            "title": "Social Cooling",
+            "description": "Similar to how global warming is a complicated global phenomenon, social cooling is the effect of digital surveillance on populations",
+            "tags": [
+                "surveillance",
+                "social cooling",
+                "society",
+                "technology",
+                "social media"
+            ],
+            "id": 173,
+            "date_added": "2025-10-05T11:23:27.194874+00:00",
+            "archived": false
+        },
+        {
+            "url": "https://mohkohn.co.uk/writing/html-first/",
+            "title": "HTML-first doubled our users",
+            "description": "How using html, server side storage and basic form input improved form submission two-fold",
+            "tags": [
+                "HTML",
+                "web components",
+                "noscript"
+            ],
+            "id": 174,
+            "date_added": "2026-06-12T21:41:17.756871+00:00",
             "archived": false
         }
     ]
